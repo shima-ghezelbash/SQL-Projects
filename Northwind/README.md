@@ -1,13 +1,39 @@
 # Northwind Database
 
-This folder contains SQL queries and database exercises based on the Microsoft Northwind sample database.
+## Overview
 
-## Topics
+This project contains SQL queries and database exercises based on the Microsoft Northwind sample database.
 
-- Queries
+## Database Schema
+<h2 align="center">Database Schema</h2>
+
+<p align="center">
+  <img src="images/northwind-schema.png" width="900">
+</p>
+(عکس ER Diagram اینجا نمایش داده می‌شود.)
+
+## Tables
+
+- Customers
+- Orders
+- Order Details
+- Products
+- Categories
+- Suppliers
+- Employees
+- Shippers
+- Region
+
+## SQL Topics
+
+- Basic Queries
 - Joins
 - Aggregate Functions
 - String Functions
 - Subqueries
 - Views
-- ....
+
+## Technologies
+
+- SQL Server
+
