@@ -6,9 +6,8 @@ This project contains SQL queries and database exercises based on the Microsoft 
 
 ## Database Schema
 <h2 align="center">Database Schema</h2>
-
 <p align="center">
-  <img src="images/northwind-schema.png" width="900">
+  <img src="ER-Diagram.png" width="900">
 </p>
 
 ## Tables
