@@ -10,7 +10,6 @@ This project contains SQL queries and database exercises based on the Microsoft 
 <p align="center">
   <img src="images/northwind-schema.png" width="900">
 </p>
-(عکس ER Diagram اینجا نمایش داده می‌شود.)
 
 ## Tables
 
